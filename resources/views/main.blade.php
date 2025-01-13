@@ -116,7 +116,7 @@
                 </div>
             </div>
 
-        </header><!-- /header -->
+        </header><!-- /header --->
 
         @yield('breadcrumbs')
 
